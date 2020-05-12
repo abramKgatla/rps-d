@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/8bb2dbda-06e5-4a4f-aca6-7e528698db49/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/Rps-game-test",
+  "appService.deploySubpath": ""
+}
